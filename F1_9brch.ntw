@@ -1,0 +1,978 @@
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>    MODULES NAME: ntw		>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+>----------------------->------------------------------->
+  LIST_NEURONS:		>	List of Neurons		>
+>.......................>...............................>
+	a_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	a_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	a_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	a_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	a_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	a_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	a_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	a_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	a_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	a_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH B(1)..........>...............................>
+>.......................>...............................>
+	b_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	b_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	b_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	b_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	b_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	b_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	b_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	b_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	b_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	b_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH C(2)..........>...............................>
+>.......................>...............................>
+	c_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	c_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	c_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	c_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	c_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	c_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	c_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	c_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	c_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	c_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH D(3)..........>...............................>
+>.......................>...............................>
+	d_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	d_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	d_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	d_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	d_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	d_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	d_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	d_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	d_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	d_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH E(4)..........>...............................>
+>.......................>...............................>
+	e_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	e_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	e_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	e_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	e_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	e_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	e_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	e_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	e_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	e_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH F(5)..........>...............................>
+>.......................>...............................>
+	f_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	f_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	f_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	f_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	f_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	f_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	f_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	f_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	f_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	f_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH G(6)..........>...............................>
+>.......................>...............................>
+	g_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	g_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	g_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	g_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	g_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	g_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	g_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	g_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	g_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	g_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH H(7)..........>...............................>
+>.......................>...............................>
+	h_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	h_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	h_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	h_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	h_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	h_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	h_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	h_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	h_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	h_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH I(8)..........>...............................>
+>.......................>...............................>
+	i_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	i_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	i_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	i_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	i_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	i_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	i_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	i_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	i_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	i_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH J(9)..........>...............................>
+>.......................>...............................>
+	j_1             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	j_2             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	j_3             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	j_4             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	j_5             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	j_6             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	j_7             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	j_8             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	red             >	Color Name		>
+>.......................>...............................>
+	j_9             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	j_10             >	Neuron's name		>
+        a_spk.neu       >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+>..BRANCH.Point.........>...............................>
+>.......................>...............................>
+	brch             >	Neuron's name		>
+        brch.neu       >	File Name		>
+	orange          >	Color Name		>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+
+>----------------------->------------------------------->
+  ELCTRCPL:		>	Electrical coupling	>
+>.......................>...............................>
+	a_2             > Name of postsynaptic neuron	>
+	a_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_3             > Name of postsynaptic neuron	>
+	a_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_4             > Name of postsynaptic neuron	>
+	a_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_5             > Name of postsynaptic neuron	>
+	a_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_6             > Name of postsynaptic neuron	>
+	a_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_7             > Name of postsynaptic neuron	>
+	a_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_8             > Name of postsynaptic neuron	>
+	a_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_9             > Name of postsynaptic neuron	>
+	a_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	a_10             > Name of postsynaptic neuron	>
+	a_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH B(1)..........>...............................>
+>.......................>...............................>
+	b_2             > Name of postsynaptic neuron	>
+	b_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_3             > Name of postsynaptic neuron	>
+	b_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_4             > Name of postsynaptic neuron	>
+	b_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_5             > Name of postsynaptic neuron	>
+	b_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_6             > Name of postsynaptic neuron	>
+	b_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_7             > Name of postsynaptic neuron	>
+	b_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_8             > Name of postsynaptic neuron	>
+	b_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_9             > Name of postsynaptic neuron	>
+	b_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_10             > Name of postsynaptic neuron	>
+	b_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH C(2)..........>...............................>
+>.......................>...............................>
+	c_2             > Name of postsynaptic neuron	>
+	c_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_3             > Name of postsynaptic neuron	>
+	c_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_4             > Name of postsynaptic neuron	>
+	c_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_5             > Name of postsynaptic neuron	>
+	c_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_6             > Name of postsynaptic neuron	>
+	c_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_7             > Name of postsynaptic neuron	>
+	c_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_8             > Name of postsynaptic neuron	>
+	c_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_9             > Name of postsynaptic neuron	>
+	c_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_10             > Name of postsynaptic neuron	>
+	c_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH D(3)..........>...............................>
+>.......................>...............................>
+	d_2             > Name of postsynaptic neuron	>
+	d_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_3             > Name of postsynaptic neuron	>
+	d_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_4             > Name of postsynaptic neuron	>
+	d_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_5             > Name of postsynaptic neuron	>
+	d_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_6             > Name of postsynaptic neuron	>
+	d_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_7             > Name of postsynaptic neuron	>
+	d_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_8             > Name of postsynaptic neuron	>
+	d_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_9             > Name of postsynaptic neuron	>
+	b_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_10             > Name of postsynaptic neuron	>
+	d_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH E(4)..........>...............................>
+>.......................>...............................>
+	e_2             > Name of postsynaptic neuron	>
+	e_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_3             > Name of postsynaptic neuron	>
+	e_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_4             > Name of postsynaptic neuron	>
+	e_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_5             > Name of postsynaptic neuron	>
+	e_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_6             > Name of postsynaptic neuron	>
+	e_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_7             > Name of postsynaptic neuron	>
+	e_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_8             > Name of postsynaptic neuron	>
+	e_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_9             > Name of postsynaptic neuron	>
+	e_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_10             > Name of postsynaptic neuron	>
+	e_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH F(5)..........>...............................>
+>.......................>...............................>
+	f_2             > Name of postsynaptic neuron	>
+	f_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_3             > Name of postsynaptic neuron	>
+	f_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_4             > Name of postsynaptic neuron	>
+	f_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_5             > Name of postsynaptic neuron	>
+	f_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_6             > Name of postsynaptic neuron	>
+	f_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_7             > Name of postsynaptic neuron	>
+	f_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_8             > Name of postsynaptic neuron	>
+	f_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_9             > Name of postsynaptic neuron	>
+	f_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_10             > Name of postsynaptic neuron	>
+	f_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH G(6)..........>...............................>
+>.......................>...............................>
+	g_2             > Name of postsynaptic neuron	>
+	g_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_3             > Name of postsynaptic neuron	>
+	g_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_4             > Name of postsynaptic neuron	>
+	g_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_5             > Name of postsynaptic neuron	>
+	g_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_6             > Name of postsynaptic neuron	>
+	g_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_7             > Name of postsynaptic neuron	>
+	g_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_8             > Name of postsynaptic neuron	>
+	g_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_9             > Name of postsynaptic neuron	>
+	g_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_10             > Name of postsynaptic neuron	>
+	g_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH H(7)..........>...............................>
+>.......................>...............................>
+	h_2             > Name of postsynaptic neuron	>
+	h_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_3             > Name of postsynaptic neuron	>
+	h_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_4             > Name of postsynaptic neuron	>
+	h_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_5             > Name of postsynaptic neuron	>
+	h_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_6             > Name of postsynaptic neuron	>
+	h_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_7             > Name of postsynaptic neuron	>
+	h_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_8             > Name of postsynaptic neuron	>
+	h_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_9             > Name of postsynaptic neuron	>
+	h_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_10             > Name of postsynaptic neuron	>
+	h_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH I(8)..........>...............................>
+>.......................>...............................>
+	i_2             > Name of postsynaptic neuron	>
+	i_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_3             > Name of postsynaptic neuron	>
+	i_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_4             > Name of postsynaptic neuron	>
+	i_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_5             > Name of postsynaptic neuron	>
+	i_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_6             > Name of postsynaptic neuron	>
+	i_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_7             > Name of postsynaptic neuron	>
+	i_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_8             > Name of postsynaptic neuron	>
+	i_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_9             > Name of postsynaptic neuron	>
+	i_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_10             > Name of postsynaptic neuron	>
+	i_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>..BRANCH J(9)..........>...............................>
+>.......................>...............................>
+	j_2             > Name of postsynaptic neuron	>
+	j_1             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_3             > Name of postsynaptic neuron	>
+	j_2             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_4             > Name of postsynaptic neuron	>
+	j_3             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_5             > Name of postsynaptic neuron	>
+	j_4             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_6             > Name of postsynaptic neuron	>
+	j_5             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_7             > Name of postsynaptic neuron	>
+	j_6             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_8             > Name of postsynaptic neuron	>
+	j_7             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_9             > Name of postsynaptic neuron	>
+	j_8             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_10             > Name of postsynaptic neuron	>
+	j_9             > Name of presynaptic neuron	>
+	i1_i2.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+>.BRANCH POINT..........>...............................>
+>.......................>...............................>
+	brch             > Name of postsynaptic neuron	>
+	a_10             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	b_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	c_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	d_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	e_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	f_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	g_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	h_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	i_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>.......................>...............................>
+	j_1             > Name of postsynaptic neuron	>
+	brch             > Name of presynaptic neuron	>
+	brch.es        > File Name			>
+	white           > Color Name			>
+>----------------------->------------------------------->
+	END		>				>
+>----------------------->------------------------------->
+
+
+>----------------------->------------------------------->
+  MODULSYN:		>	Modulatory synapse	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  WEIGHT:		>	Weights	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+END

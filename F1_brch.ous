@@ -1,0 +1,43 @@
+
+>------------------------------->--------------------------------------->
+  VAR_TO_GRAPH: 		>	                        	>
+				>		        		>
+>------------------------------->--------------------------------------->
+	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+	1			>	GAIN of Channel			>
+	time<{ivr}            	>	Var Name for X-axis		>
+		5           	>	Number of Tic Marks		>
+		0.000        	>	Min Value of X			>
+		0.005        	>	Max Value of X			>
+		white       	>	Color of Range			>
+	V[a_8....]<{svr}   	>	Var Name for Y-axis		>
+		5           	>	Number of Tic Marks		>
+		-70.00      	>	Min Value of Y			>
+		30.00       	>	Max Value of Y			>
+		navyblue        >	Color of RAnge			>
+	V[a_9....]<{svr}  	>	Var Name for Y-axis		>
+		5           	>	Number of Tic Marks		>
+		-70.00      	>	Min Value of Y			>
+		30.00       	>	Max Value of Y			>
+		violet        	>	Color of RAnge			>
+	V[a_10....]<{svr}  	>	Var Name for Y-axis		>
+		5           	>	Number of Tic Marks		>
+		-70.00      	>	Min Value of Y			>
+		30.00       	>	Max Value of Y			>
+		purple        	>	Color of RAnge			>
+	V[b_1....]<{svr}  	>	Var Name for Y-axis		>
+		5           	>	Number of Tic Marks		>
+		-70.00      	>	Min Value of Y			>
+		30.00       	>	Max Value of Y			>
+		orange        	>	Color of RAnge			>
+	V[b_2....]<{svr}  	>	Var Name for Y-axis		>
+		5           	>	Number of Tic Marks		>
+		-70.00      	>	Min Value of Y			>
+		30.00       	>	Max Value of Y			>
+		red        	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+	END:			>					>
+>------------------------------->--------------------------------------->
+
+END:
